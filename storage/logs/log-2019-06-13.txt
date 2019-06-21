@@ -1,0 +1,160 @@
+ERROR - 2019-06-13 10:47:25 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:47:25 --> 404 Page Not Found: Assets/fonts
+ERROR - 2019-06-13 10:47:26 --> 404 Page Not Found: Assets/fonts
+ERROR - 2019-06-13 10:47:26 --> 404 Page Not Found: Assets/fonts
+ERROR - 2019-06-13 10:47:26 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 10:49:26 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:50:08 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:52:34 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:54:46 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:55:25 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 10:57:46 --> 404 Page Not Found: Jumbotroncss/index
+ERROR - 2019-06-13 11:14:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:14:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:14:38 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:14:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:14:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:14:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:14:39 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:15:48 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Floating-labelscss/index
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Floating-labelscss/index
+ERROR - 2019-06-13 11:16:05 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-06-13 11:16:56 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:20:58 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:23:44 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:23:44 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:23:56 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:24:15 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:24:27 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:24:32 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:25:56 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:27:19 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:27:34 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:27:34 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2019-06-13 11:29:17 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:30:08 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:30:50 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:34:18 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:35:29 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:36:14 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:36:49 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:36:58 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:37:14 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:37:27 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:37:41 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:38:02 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:38:07 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:38:13 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:38:18 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:39:09 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:39:21 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:39:39 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:39:56 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:40:00 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:40:41 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:41:20 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:47:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-06-13 11:50:51 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:50:55 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:51:52 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:51:54 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 11:52:05 --> 404 Page Not Found: Docs/4.3
+ERROR - 2019-06-13 12:28:42 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:28:42 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:30:11 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:30:11 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:30:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:30:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:32:27 --> Query error: Table 'sample.packages' doesn't exist - Invalid query: SELECT `u`.*, `p`.`id_hash`, `p`.`title`, `p`.`monthly_price`, `p`.`annual_price`, `p`.`file_size`, `p`.`storage_size`, `p`.`max_accounts`, `p`.`cloud_import`, `p`.`modules`, `p`.`post_type`, `p`.`trial_days`
+FROM `users` `u`
+LEFT JOIN `packages` `p` ON `p`.`id` = `u`.`package_id`
+WHERE `u`.`id` = 0
+ERROR - 2019-06-13 12:33:23 --> Query error: Unknown column 'u.id' in 'where clause' - Invalid query: SELECT *
+FROM `users`
+WHERE `u`.`id` = 0
+ERROR - 2019-06-13 12:35:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:35:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:35:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:35:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:36:00 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:36:00 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 12:44:25 --> Query error: Table 'sample.packages' doesn't exist - Invalid query: SELECT *
+FROM `packages`
+WHERE `id` = 1
+ERROR - 2019-06-13 12:44:36 --> Query error: Table 'sample.packages' doesn't exist - Invalid query: SELECT *
+FROM `packages`
+WHERE `id` = 1
+ERROR - 2019-06-13 12:45:38 --> Query error: Table 'sample.packages' doesn't exist - Invalid query: SELECT *
+FROM `packages`
+WHERE `id` = 1
+ERROR - 2019-06-13 13:13:36 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:13:37 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:13:37 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:17:14 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:17:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:17:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:13 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:18:13 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:13 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:21 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:18:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:36 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:18:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:18:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:19:26 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:19:47 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:20:18 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:20:28 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:21:10 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:21:48 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:22:27 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:22:37 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:22:54 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:23:10 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:23:19 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:23:28 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:23:37 --> 404 Page Not Found: L/index
+ERROR - 2019-06-13 13:30:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:30:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:31:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:31:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-06-13 13:32:35 --> 404 Page Not Found: M/index
+ERROR - 2019-06-13 13:34:36 --> 404 Page Not Found: M/index
+ERROR - 2019-06-13 13:38:03 --> 404 Page Not Found: Kk/index
+ERROR - 2019-06-13 14:07:49 --> 404 Page Not Found: D/index
+ERROR - 2019-06-13 22:44:03 --> 404 Page Not Found: app/Expired/index
+ERROR - 2019-06-13 22:54:59 --> 404 Page Not Found: 
+ERROR - 2019-06-13 22:56:52 --> 404 Page Not Found: 
+ERROR - 2019-06-13 22:57:18 --> 404 Page Not Found: 
+ERROR - 2019-06-13 22:57:24 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:03:44 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:03:48 --> 404 Page Not Found: app/Users/index
+ERROR - 2019-06-13 23:03:57 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:04:02 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:04:15 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:04:15 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:04:21 --> 404 Page Not Found: app/Users/index
+ERROR - 2019-06-13 23:04:24 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:07:06 --> 404 Page Not Found: 
+ERROR - 2019-06-13 23:53:37 --> Query error: Table 'sample.documents' doesn't exist - Invalid query: SELECT *
+FROM `documents`
+WHERE DATE(Date) > '2019-06-13 23:53:37'

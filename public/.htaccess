@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+
+Options +FollowSymLinks
+Options All -Indexes
+
+# php_value display_errors 1
+
+ErrorDocument 403 "<code>Directory access is forbidden</code>"

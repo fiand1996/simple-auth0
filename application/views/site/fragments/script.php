@@ -1,0 +1,1 @@
+<script src="<?= base_url("assets/js/landing.js?v=" . APP_VERSION) ?>"></script>

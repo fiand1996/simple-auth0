@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "fightbulc/moment": "^1.30",
+        "filp/whoops": "^2.3",
+        "ext-gd": "*",
+        "ext-exif": "*"
+    },
+
+    "config": {
+        "platform": {
+            "php": "7.2.18"
+        }
+    }
+}
