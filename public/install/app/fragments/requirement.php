@@ -85,8 +85,8 @@
                     </li>
                     <li>
                         <a href="#">
-                            <code>/app/config/database.php</code>
-                            <?php if (is_writeable(ROOTPATH . "app/config/database.php")): ?>
+                            <code>/application/config/database.php</code>
+                            <?php if (is_writeable(ROOTPATH . "application/config/database.php")): ?>
                             <span class="label label-success pull-right">writable</span>
                             <?php else: ?>
                             <span class="label label-danger pull-right">not writable</span>
