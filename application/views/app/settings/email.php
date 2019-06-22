@@ -27,19 +27,19 @@
                             <div class="form-group col-md-6">
                                 <label for="host">Server SMTP</label>
                                 <input id="host" name="host" class="form-control" type="text"
-                                    value="<?=$settingEmail->host?>">
+                                    value="<?=htmlchars($settingEmail->host)?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="port">Port</label>
                                 <input id="port" name="port" class="form-control" type="text"
-                                    value="<?=$settingEmail->port?>">
+                                    value="<?=htmlchars($settingEmail->port)?>">
                             </div>
                         </div>
                         <div class="row">
                             <div class="form-group col-md-6">
                                 <label for="from">Email Dari</label>
                                 <input id="from" name="from" class="form-control" type="text"
-                                    value="<?=$settingEmail->from?>">
+                                    value="<?=htmlchars($settingEmail->from)?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="encryption">Enkripsi</label>
@@ -63,11 +63,11 @@
                             <div class="form-group col-md-6">
                                 <label for="username">Nama Pengguna</label>
                                 <input id="username" name="username" class="form-control" type="text"
-                                    value="<?=$settingEmail->username?>">
+                                    value="<?=htmlchars($settingEmail->username)?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="password">Password</label>
-                                <input id="password" name="password" class="form-control" type="text"
+                                <input id="password" name="password" class="form-control" type="password"
                                     value="<?=$settingEmail->password?>">
                             </div>
                         </div>

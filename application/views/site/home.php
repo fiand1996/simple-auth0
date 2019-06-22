@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row centered">
                 <div class="col-lg-12">
-                    <h1><b><a href=""><?= $settingGeneral->site_name ?></a></b> Bootstrap Admin Template </h1>
+                    <h1><b><a href=""><?= htmlchars($settingGeneral->site_name) ?></a></b> Bootstrap Admin Template </h1>
                     <h3>Best open source admin dashboard & control panel theme. Built on top of Bootstrap, AdminLTE
                         provides a range of responsive, reusable, and commonly used components.</h3>
                     <h3>
@@ -164,6 +164,9 @@
                     </div><!-- Accordion -->
                 </div>
             </div>
+            <br>
+            <br>
+            <hr>
         </div>
         <!--/ .container -->
     </div>
@@ -176,7 +179,7 @@
             <div class="row ">
                 <h1 class="centered">Pricing</h1>
 
-                <div class="col-md-3 col-sm-6 col-xs-12 float-shadow">
+                <div class="col-md-4 col-sm-6 col-xs-12 float-shadow">
                     <div class="price_table_container">
                         <div class="price_table_heading">Starter</div>
                         <div class="price_table_body">
@@ -192,9 +195,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6 col-xs-12 float-shadow">
-                    <div class="recommended"><strong><span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
-                            RECOMMENDED</strong></div>
+                <div class="col-md-4 col-sm-6 col-xs-12 float-shadow">
                     <div class="price_table_container">
                         <div class="price_table_heading">Basic</div>
                         <div class="price_table_body">
@@ -210,7 +211,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6 col-xs-12 float-shadow">
+                <div class="col-md-4 col-sm-6 col-xs-12 float-shadow">
                     <div class="price_table_container">
                         <div class="price_table_heading">Premium</div>
                         <div class="price_table_body">
@@ -223,22 +224,6 @@
                             <div class="price_table_row">Full Time Support</div>
                         </div>
                         <a href="#" class="btn btn-success btn-lg btn-block">Sign Up</a>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12 float-shadow">
-                    <div class="price_table_container">
-                        <div class="price_table_heading">Master</div>
-                        <div class="price_table_body">
-                            <div class="price_table_row cost info-bg"><strong>$ 60</strong><span>/MONTH</span></div>
-                            <div class="price_table_row">Unlimited Websites</div>
-                            <div class="price_table_row">10 TB Storage</div>
-                            <div class="price_table_row">100 TB Bandwidth</div>
-                            <div class="price_table_row">1000 Email Addresses</div>
-                            <div class="price_table_row">Free Backup</div>
-                            <div class="price_table_row">Full Time Support</div>
-                        </div>
-                        <a href="#" class="btn btn-info btn-lg btn-block">Sign Up</a>
                     </div>
                 </div>
             </div>

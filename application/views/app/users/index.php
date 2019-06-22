@@ -61,8 +61,8 @@
                             <tr>
                                 <td><input type="checkbox" data-id="<?= $u->id ?>" class="row-checkbox icheck-flat-blue" name="app_theme"></td>
                                 <td scope="row" class="numberRow"><strong><?= $no++ ?></strong></td>
-                                <td><?=$u->firstname . " " . $u->lastname?></td>
-                                <td><?=$u->email?></td>
+                                <td><?= htmlchars($u->firstname . " " . $u->lastname) ?></td>
+                                <td><?= htmlchars($u->email) ?></td>
                                 <td>
                                     <?php 
                                     $expire = new DateTime($u->expire_date);
@@ -100,7 +100,7 @@
                                             class="btn btn-warning">Edit</button>
                                         <button type="button" class="remove-list-item btn btn-danger"
                                             data-id="<?=$u->id?>" data-url="<?=base_url("users")?>"
-                                            data-name="<?= $u->firstname ?>"
+                                            data-name="<?= htmlchars($u->firstname) ?>"
                                             <?= ($u->id != $userAuth->id) && ($u->account_type != "admin") ? "" : "disabled" ?>>Hapus</button>
                                     </div>
                                 </td>

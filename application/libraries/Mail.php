@@ -179,7 +179,7 @@ class Mail extends PHPMailer
         $mail->addAddress($data['email']);
 
         $emailbody = "<p>" . __("Halo %s", htmlchars($data['firstname'])) . ", </p>"
-        . "<p>" . __("Harap verifikasi alamat email %s milik Anda. Untuk melakukannya, cukup klik tombol di bawah ini.", "<strong>" . $data['email'] . "</strong>")
+        . "<p>" . __("Harap verifikasi alamat email %s milik Anda. Untuk melakukannya, cukup klik tombol di bawah ini.", "<strong>" . htmlchars($data['email']) . "</strong>")
         . "<div style='margin-top: 30px; font-size: 14px; color: #9b9b9b'>"
         . "<a style='display: inline-block; background-color: #3b7cff; color: #fff; font-size: 14px; line-height: 24px; text-decoration: none; padding: 6px 12px; border-radius: 4px;' href='" . base_url() . "activation/" . $hash . "." . $data['id'] . "'>" . __("Verifikasi Email") . "</a>"
             . "</div>";

@@ -199,7 +199,7 @@ SimpleAuth.TableRowRemove = function () {
             name = $(this).data("name") ? $(this).data("name") : 'data';
 
         SimpleAuth.Confirm({
-            title: "Yakin ingin menghapus " + name + "?",
+            title: "Yakin ingin menghapus " + escape(name) + "?",
             confirm: function () {
                 $.ajax({
                     url: url,

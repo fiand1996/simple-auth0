@@ -31,7 +31,7 @@
     <div class="container">
       <div class="text-center">
         Copyright &copy; <?= date("Y") ?>
-          <strong><a href="<?= base_url() ?>"><?= $settingGeneral->site_name ?></a></strong> |
+          <strong><a href="<?= base_url() ?>"><?= htmlchars($settingGeneral->site_name) ?></a></strong> |
           Created by <strong><a href="https://github.com/fiand1996">Fiand T</a></strong> |
         Version <strong><?= APP_VERSION ?></strong>
       </div>

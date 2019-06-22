@@ -34,7 +34,7 @@
     function write_config($data) {
 
         $template_path  = INSTALLPATH . 'app/template/database.php';
-        $output_path    = ROOTPATH . 'app/config/database.php';
+        $output_path    = ROOTPATH . 'application/config/database.php';
         $index_path = PUBLICPATH . 'index.php';
         
         $index_file    = file_get_contents($index_path);

@@ -124,7 +124,7 @@ switch (ENVIRONMENT) {
     
     define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
 
-    define("APP_VERSION", rand(1, 1000));
+    define("APP_VERSION", "1.0");
 
     date_default_timezone_set('Asia/Jakarta');
     

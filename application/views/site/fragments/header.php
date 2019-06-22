@@ -6,7 +6,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?=base_url()?>"><b><?= $settingGeneral->site_name ?></b></a>
+      <a class="navbar-brand" href="<?=base_url()?>"><b><?= htmlchars($settingGeneral->site_name) ?></b></a>
     </div>
     <div class="navbar-collapse collapse">
 
@@ -22,7 +22,7 @@
       <ul class="nav navbar-nav navbar-right">
         <?php if ($this->UserModel->isLogged()): ?>
         <li class="dropdown bt-dropdown-click hidden-xs"> <a class="dropdown-toggle" data-toggle="dropdown"
-            role="button" aria-haspopup="true" aria-expanded="true"> <strong>Hai, <?=$userAuth->firstname?></strong> <span
+            role="button" aria-haspopup="true" aria-expanded="true"> <strong>Hai, <?= htmlchars($userAuth->firstname) ?></strong> <span
               class="caret"></span> </a>
           <ul class="dropdown-menu">
             <li><a href="<?=base_url('profile')?>">Profile Saya</a></li>

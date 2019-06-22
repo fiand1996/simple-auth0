@@ -49,18 +49,18 @@
                              <div class="form-group col-md-6">
                                  <label for="firstname">Nama Depan</label>
                                  <input id="firstname" name="firstname" class="required form-control" type="text"
-                                     value="<?= $User->firstname ?>">
+                                     value="<?= htmlchars($User->firstname) ?>">
                              </div>
                              <div class="form-group col-md-6">
                                  <label for="lastname">Nama Belakang</label>
                                  <input id="lastname" name="lastname" class="required form-control" type="text"
-                                     value="<?= $User->lastname ?>">
+                                     value="<?= htmlchars($User->lastname) ?>">
                              </div>
                          </div>
                          <div class="form-group">
                              <label for="email">Email</label>
                              <input id="email" name="email" class="form-control" type="email"
-                                 value="<?= $User->email ?>">
+                                 value="<?= htmlchars($User->email) ?>">
                          </div>
                          <div class="row">
                              <div class="form-group col-md-6">

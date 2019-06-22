@@ -7,7 +7,7 @@
                ? $siteTitle . " - " . $settingGeneral->site_name 
                : $settingGeneral->site_name . " - " . $settingGeneral->site_title
     ?>
-  <title><?= $pageTitle ?></title>
+  <title><?= htmlchars($pageTitle) ?></title>
   <link rel="icon" type="image/x-icon" href="<?= base_url("assets/img/favicon.ico?v=" . APP_VERSION) ?>">
   <link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/plugins.css?v=" . APP_VERSION) ?>">
   <link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/core.css?v=" . APP_VERSION) ?>">

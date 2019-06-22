@@ -1,6 +1,6 @@
 <div class="box login-box">
     <div class="login-logo bg-blue">
-        <a href="<?= base_url() ?>"><b><?= $settingGeneral->site_name ?></b></a>
+        <a href="<?= base_url() ?>"><b><?= htmlchars($settingGeneral->site_name) ?></b></a>
     </div>
     <div class="box-body">
         <div class="text-center">

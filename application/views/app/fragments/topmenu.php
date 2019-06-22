@@ -1,7 +1,7 @@
 <header class="main-header">
     <a href="<?= base_url() ?>" class="logo">
         <span class="logo-mini"><b>A</b>LT</span>
-        <span class="logo-lg"><?= $settingGeneral->site_name ?></span>
+        <span class="logo-lg"><strong><?= htmlchars($settingGeneral->site_name) ?></strong></span>
     </a>
     <nav class="navbar navbar-static-top">
         <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
@@ -15,15 +15,15 @@
                 <li class="dropdown user user-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <img src="<?= base_url("media/users/{$userAuth->picture}") ?>" class="user-image img-circle" alt="User Image">
-                        <span class="hidden-xs"><?= $userAuth->firstname . " " . $userAuth->lastname ?></span>
+                        <span class="hidden-xs"><?= htmlchars($userAuth->firstname . " " . $userAuth->lastname) ?></span>
                     </a>
                     <ul class="dropdown-menu">
                         <li class="user-header">
                             <img src="<?= base_url("media/users/{$userAuth->picture}") ?>" class="img-circle" alt="User Image">
 
                             <p>
-                                <?= $userAuth->firstname . " " . $userAuth->lastname ?>
-                                <small><?= $userAuth->email ?></small>
+                                <?= htmlchars($userAuth->firstname . " " . $userAuth->lastname) ?>
+                                <small><?= htmlchars($userAuth->email) ?></small>
                             </p>
                         </li>
                         <li class="user-footer">

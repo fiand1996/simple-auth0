@@ -27,12 +27,12 @@
                             <div class="form-group col-md-6">
                                 <label for="site_key">Site Key</label>
                                 <input id="site_key" name="site_key" class="form-control" type="text"
-                                    value="<?= $settingRecaptcha->site_key ?>">
+                                    value="<?= htmlchars($settingRecaptcha->site_key) ?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="secret_key">Secret key</label>
                                 <input id="secret_key" name="secret_key" class="form-control" type="text"
-                                    value="<?= $settingRecaptcha->secret_key ?>">
+                                    value="<?= htmlchars($settingRecaptcha->secret_key) ?>">
                             </div>
                         </div>
                         <?php $disabled = isset($settingRecaptcha->site_key) && isset($settingRecaptcha->secret_key) ? "" : "disabled" ?>

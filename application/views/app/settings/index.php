@@ -27,22 +27,22 @@
                          <div class="form-group">
                              <label for="site_name">Nama Situs</label>
                              <input id="site_name" name="site_name" class="form-control" type="text"
-                                 value="<?= $settingGeneral->site_name ?>">
+                                 value="<?= htmlchars($settingGeneral->site_name) ?>">
                          </div>
                          <div class="form-group">
                              <label for="site_title">Judul Situs</label>
                              <input id="site_title" name="site_title" class="form-control" type="text"
-                                 value="<?= $settingGeneral->site_title ?>">
+                                 value="<?= htmlchars($settingGeneral->site_title) ?>">
                          </div>
                          <div class="form-group">
                              <label for="site_description">Deskripsi Situs</label>
                              <textarea name="site_description" id="site_description" cols="30" class="form-control"
-                                 rows="5"><?= $settingGeneral->site_description ?></textarea>
+                                 rows="5"><?= htmlchars($settingGeneral->site_description) ?></textarea>
                          </div>
                          <div class="form-group">
                              <label for="site_keywords">Kata Kunci Situs</label>
                              <textarea name="site_keywords" id="site_keywords" cols="30" class="form-control"
-                                 rows="5"><?= $settingGeneral->site_keywords ?></textarea>
+                                 rows="5"><?= htmlchars($settingGeneral->site_keywords) ?></textarea>
                          </div>
                      </div>
                      <div class="box-footer">

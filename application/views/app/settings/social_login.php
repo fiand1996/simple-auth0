@@ -26,7 +26,7 @@
                         <div class="form-group">
                             <label for="api_key">Oauth App keys</label>
                             <input id="api_key" name="api_key" class="form-control" type="text"
-                                value="<?= $settingOauth->api_key ?>">
+                                value="<?= htmlchars($settingOauth->api_key) ?>">
                         </div>
                         <?php $disabled = isset($settingOauth->api_key) ? "" : "disabled" ?>
                         <div class="form-check">

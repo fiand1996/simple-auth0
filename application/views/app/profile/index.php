@@ -5,7 +5,7 @@
             <div class="alert alert-warning">
                 <div class="msg">
                     Anda perlu memverifikasi email Anda. Periksa instruksi yang
-                    dikirim ke <strong><?= $userAuth->email ?></strong> untuk verifikasi email Anda.
+                    dikirim ke <strong><?= htmlchars($userAuth->email) ?></strong> untuk verifikasi email Anda.
                     <a href="javascript:void(0)" class="btn btn-primary btn-xs js-resend-verification-email"
                         data-url="<?= base_url("profile") ?>">Kirim ulang email</a>
                     <em class="js-resend-result"></em>
@@ -36,18 +36,18 @@
                             <div class="form-group col-md-6">
                                 <label for="firstname">Nama Depan</label>
                                 <input id="firstname" name="firstname" class="form-control" type="text"
-                                    value="<?= $userAuth->firstname ?>">
+                                    value="<?= htmlchars($userAuth->firstname) ?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="lastname">Nama Belakang</label>
                                 <input id="lastname" name="lastname" class="form-control" type="text"
-                                    value="<?= $userAuth->lastname ?>">
+                                    value="<?= htmlchars($userAuth->lastname) ?>">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="email">Email</label>
                             <input id="email" name="email" class="form-control" type="email"
-                                value="<?= $userAuth->email ?>">
+                                value="<?= htmlchars($userAuth->email) ?>">
                         </div>
                         <div class="row">
                             <div class="form-group col-md-6">

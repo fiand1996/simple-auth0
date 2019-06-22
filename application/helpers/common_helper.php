@@ -139,10 +139,29 @@ if (!function_exists('slitName')) {
 }
 
 if (!function_exists('sendAlert')) {
-    function sendAlert($text, $type = 'success')
+    function sendAlert($msg, $type = 'success')
     {
         $app = &get_instance();
-        return $app->session->set_flashdata($type, $text);
+
+        return $app->session->set_flashdata('alert', [
+            'msg' => $msg,
+            'type' => $type
+        ]);
+    }
+}
+
+if (!function_exists('showAlert')) {
+    function showAlert()
+    {
+        $app = &get_instance();
+
+        $alert = $app->session->flashdata('alert');
+
+        if ($alert) {
+            return '<div class="alert alert-'.$alert['type'].'" role="alert">' . $alert['msg'] . '</div>';
+        }
+
+        return;
     }
 }
 
@@ -164,28 +183,5 @@ if (!function_exists('sanitize_output')) {
         $buffer = preg_replace($search, $replace, $buffer);
 
         return $buffer;
-    }
-}
-
-if (!function_exists('showAlert')) {
-    function showAlert()
-    {
-        $app = &get_instance();
-
-        $html = '';
-
-        if ($app->session->flashdata('success')) {
-            $html = '<div class="alert alert-success" role="alert">' . $app->session->flashdata('success') . '</div>';
-        }
-
-        if ($app->session->flashdata('info')) {
-            $html = '<div class="alert alert-info" role="alert">' . $app->session->flashdata('info') . '</div>';
-        }
-
-        if ($app->session->flashdata('danger')) {
-            $html = '<div class="alert alert-danger" role="alert">' . $app->session->flashdata('danger') . '</div>';
-        }
-
-        return $html;
     }
 }
